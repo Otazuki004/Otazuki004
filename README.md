@@ -1,28 +1,26 @@
 #  𝗢ᴛᴀᴢᴜᴋɪ
 
-[![004](https://te.legra.ph/file/6c6e0a75e3b222f7e19a0.jpg)](https://opensource.org/licenses/BSD-2-Clause) [![DeepSource](https://static.deepsource.io/deepsource-badge-light-mini.svg)](https://deepsource.io/gh/Awesome-Prince/NekoRobot-3/?ref=repository-badge) [![Join Support!](https://img.shields.io/badge/Join%20Channel-!-red)](https://telegram.dog/Updates004) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://GitHub.com/Awesome-Prince/NekoRobot-3/graphs/contributors/)
+[![004](https://te.legra.ph/file/6c6e0a75e3b222f7e19a0.jpg)]A modular telegram Python bot running on python3 with an Sqlalchemy, mongodb database.
 
-A modular telegram Python bot running on python3 with an Sqlalchemy, mongodb database.
+###  ╔═━「 Details 」
 
-###  ╔═━「 Status 」
+- [x] Name : O T A Z U K I • 카빌란
 
-- [x] Maintained
+- [x] Username : @OTAZUKI_004
 
-- [x] Support Group Available
+- [x] AGE : 13
 
-- [x] Free
+- [x] DOB : 18/10
 
-- [x] OpenSourced
+- [x] BOT : [HYDRA](https://telegram.dog/Hydra_50_bot)
 
-- [x] Working Instance Available
+- [x] Telethon Knowledge : 19%
 
-- [x] Clean Code
+- [x] Pyrogram knowledge : 5%
 
-- [x] Heroku Deploy
+- [x] Group : [FutureCity](https://telegram.dog/FutureCity004)
 
-- [x] Docker/Local Machine
-
-╘═━「 Can be found on telegram as [Hydra](https://telegram.dog/Hydra_50_bot) 」
+╘═━「 Can be found on telegram as [O T A Z U K I • 카빌란](https://telegram.dog/Otazuki_004) 」
 
 ## ╔═━「 Credits 」
 
@@ -96,4 +94,4 @@ Start with ```python3 -m Hydra```
 
 </p>
 
-</details>
+
