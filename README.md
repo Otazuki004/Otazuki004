@@ -1,6 +1,6 @@
 #  𝗢ᴛᴀᴢᴜᴋɪ
 
-[![004](https://te.legra.ph/file/6c6e0a75e3b222f7e19a0.jpg)]
+[!(https://te.legra.ph/file/6c6e0a75e3b222f7e19a0.jpg)]
 
 
 ###  ╔═━「 Details 」
