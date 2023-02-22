@@ -7,7 +7,7 @@
 
 - [x] Name : O T A Z U K I • 카빌란
 
-- [x] Username : @OTAZUKI_004
+- [x] Username : @Otazuki004
 
 - [x] AGE : 13
 
@@ -15,7 +15,7 @@
 
 - [x] FRIENDS : [HERE](https://t.me/otazuki_bio/14)
 
-- [x] BOT : [HYDRA](https://telegram.dog/Hydra_50_bot)
+- [x] BOT : [HYDRA](https://telegram.dog/Hydra_100_bot)
 
 - [x] Telethon Knowledge : 19%
 
@@ -33,5 +33,5 @@
 - [x] INSTAGRAM : [HERE](https://bit.ly/3yrFJKU)
 - [x] DISCORD : [HERE](https://bit.ly/3RPdooH)
 - [x] TELEGRAM : [HERE](https://t.me/Otazuki_004)
-- [x] FUTURE CITY : [HERE](https://telegram.dog/futureCity004)
+- [x] FUTURE CITY : [HERE](https://telegram.dog/futureCity005)
 - [x] BIO : [HERE](https://telegram.dog/Otazuki_bio)
