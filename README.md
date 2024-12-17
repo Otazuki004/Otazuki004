@@ -20,14 +20,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-# Top Committed Repositories - Otazuki004
-
-Below are the top committed repositories of GitHub user Otazuki004:
-
-1. [𝗛ʏᴅʀᴀ](https://github.com/Otazuki004/HydraV5HS)
-2. [𝗩ᴇxᴇʀᴀ](https://github.com/Otazuki004/Vexera-)
-
-
 # RANDOM KITTEN IMG BY ME 💖
 
 <img src="http://placekitten.com/200/300">
