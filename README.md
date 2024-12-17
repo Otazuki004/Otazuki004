@@ -14,12 +14,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-# RANDOM KITTEN IMG BY ME 💖
-
-<img src="http://placekitten.com/200/300">
-
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Otazuki004&icon=9&color=5)](https://visitcount.itsvg.in)
